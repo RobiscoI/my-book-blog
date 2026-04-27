@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>나의 독서 블로그</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 나의 독서 블로그</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Mon, 27 Apr 2026 22:25:52 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Book</title>
+      <link>http://localhost:1313/posts/my-first-book/</link>
+      <pubDate>Mon, 27 Apr 2026 22:25:52 +0900</pubDate>
+      <guid>http://localhost:1313/posts/my-first-book/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
